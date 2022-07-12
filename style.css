@@ -1,0 +1,15 @@
+@charset "utf-8";
+.table {
+    margin: auto;
+}
+
+.day {
+    text-align: center;
+}
+
+.cal {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: top;
+}
